@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prerna Mahabare</h1>
 <h3 align="center">Hello! I'm Prerna, a full stack developer from India. I am a Third-year CST student aspiring to innovate and solve real-world challenges through code and technology🚀</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prernamahabare&label=Profile%20views&color=0e75b6&style=flat" alt="prernamahabare" /> </p>
+
 - 💬 Ask me about **React, HTML, CSS, JavaScript, Bootstarp, Firebase**
 
 - 📫 Reach at me **prernasmahabare24@gmail.com**
